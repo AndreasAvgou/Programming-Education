@@ -9,4 +9,5 @@ Summary of Education courses
 5) [Information Theory with Python](https://github.com/AndreasAvgou/Information-Theory-with-Python)
 6) [Sensor Networks Simulations with Python](https://github.com/AndreasAvgou/Sensor-Networks-Simulations-with-Python)
 7) [IoT Network Simulation & AI with Python](https://github.com/AndreasAvgou/IoT-Network-Simulation-and-AI-with-Python)
+8) [Information Retrieval & NLP with Python](https://github.com/AndreasAvgou/Information-Retrieval-and-NLP-with-Python)
 
