@@ -1,4 +1,13 @@
-# Education
+<div align="center">
+  <img width="524" height="325" alt="education-technology-trends-scaled-1-1024x625" src="https://github.com/user-attachments/assets/e6e27c58-c628-42c2-a9f8-1c65c5c50181" />
+
+
+
+ # Education
+  
+</div>
+
+
 
 Summary of education
 
