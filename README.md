@@ -1,15 +1,11 @@
 <div align="center">
   <img width="524" height="325" alt="education-technology-trends-scaled-1-1024x625" src="https://github.com/user-attachments/assets/e6e27c58-c628-42c2-a9f8-1c65c5c50181" />
 
-
-
- # Education
+ # Summary of education
   
 </div>
 
 
-
-Summary of education
 
 1) [Fundamental Programming with Python](https://github.com/AndreasAvgou/Fundamental-Programming-with-Python)
 2) [Advanced Programming with Python](https://github.com/AndreasAvgou/Advanced-Programming-with-Python)
